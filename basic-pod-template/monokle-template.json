@@ -1,6 +1,6 @@
 {
     "name": "Basic Kubernetes Pod",
-    "id": "com.github.YashTest-01.plugin.templates.basic-pod-template",
+    "id": "com.github.Yash-Dhasmana.plugin.templates.basic-pod-template",
     "author": "Yash Dhasmana",
     "version": "1.0.0",
     "description": "Creates a pod for a specified image",
