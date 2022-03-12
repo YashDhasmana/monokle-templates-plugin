@@ -1,0 +1,15 @@
+{
+    "name": "Template plugins",
+    "description": "custom templates plugin",
+    "version": "1.0.0",
+    "author": "Yash Dhasmana",
+    "repository": "https://github.com/Yash-Dhasmana/monokle-templates-plugin",
+    "monoklePlugin": {
+        "modules": [
+            {
+                "type": "template",
+                "path": "basic-pod-template"
+            }
+        ]
+    }
+}

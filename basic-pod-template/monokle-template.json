@@ -1,0 +1,24 @@
+{
+    "name": "Basic Kubernetes Pod",
+    "id": "com.github.YashTest-01.plugin.templates.basic-pod-template",
+    "author": "Yash Dhasmana",
+    "version": "1.0.0",
+    "description": "Creates a pod for a specified image",
+    "repository": "",
+    "type": "vanilla",
+    "forms": [
+        {
+            "name": "Pod Settings",
+            "description": "specify the settings for your pod",
+            "schema": "form-schema.json",
+            "uiSchema": "form-ui-schema.json"
+        }
+    ],
+    "manifests": [
+        {
+            "filepath": "template.yaml"
+        }
+    ],
+    "resultMessage": "Pod resource created successfully!",
+    "helpUrl": "https://github.com/Yash-Dhasmana/monokle-templates-plugin"
+}
