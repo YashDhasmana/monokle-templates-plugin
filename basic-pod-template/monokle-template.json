@@ -9,7 +9,7 @@
     "forms": [
         {
             "name": "Pod Settings",
-            "description": "specify the settings for your pod",
+            "description": "specify the settings for your Pod",
             "schema": "form-schema.json",
             "uiSchema": "form-ui-schema.json"
         }
