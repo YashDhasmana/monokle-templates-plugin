@@ -5,6 +5,8 @@
     "author": "Yash Dhasmana",
     "repository": "https://github.com/Yash-Dhasmana/monokle-templates-plugin",
     "monoklePlugin": {
+        "id": "com.github.Yash-Dhasmana.plugin.templates",
+        "helpUrl": "https://github.com/Yash-Dhasmana/monokle-templates-plugin",
         "modules": [
             {
                 "type": "template",
